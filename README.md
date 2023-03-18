@@ -1,5 +1,4 @@
-# <img src="src/images/icon48.png" width="45" align="left"> GIFs for
-~GitHub~other
+# <img src="src/images/icon48.png" width="45" align="left"> GIFs for ~GitHub~other
 
 [My attempt to modify ] A Browser extension that makes it easy to search GIPHY and add a GIF into any**thing** ~GitHub comment box~.
 
